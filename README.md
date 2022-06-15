@@ -1,0 +1,1 @@
+Aula de Javascript do Bootcamp da DIO sobre variavéis e tipos, exercícios para fixação do conteúdo.
